@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarthakviche
-- 👀 I’m interested in Web Development, UI/UX and Video editing
+- 👀 I’m interested in Web Development, AI-ML and Video editing
 - 🌱 I’m currently learning Web Dev
 - 📫 How to reach me: mail me at sarthakviche@gmail.com
 - 😄 Pronouns: he/him
