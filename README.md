@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarthakviche
 - 👀 I’m interested in Web Development, AI-ML and Video editing
-- 🌱 I’m currently learning Web Dev
+- 🌱 I’m currently learning Web Dev & Machine Learning
 - 📫 How to reach me: mail me at sarthakviche@gmail.com
 - 😄 Pronouns: he/him
 
