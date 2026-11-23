@@ -2,79 +2,52 @@
 
 <img width="100%" src="assets/hero.svg" alt="Sarthak Viche" />
 
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=FFB47A)](https://www.linkedin.com/in/sarthakviche/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=carrd&logoColor=FFB47A)](https://sarthakviche.carrd.co/)
+
+<a href="https://github.com/sarthakviche">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=FFB47A&center=true&vCenter=true&width=700&height=36&lines=Open-source+stock+research+with+Belfort;GST+automation+running+for+real+businesses;AutoYield-AI+accepted+at+IEEE;Models+%E2%86%92+APIs+%E2%86%92+interfaces+%E2%86%92+shipped" alt="typing intro" />
+</a>
+
 </div>
 
 ## 🎯 About Me
 
-```js
-const sarthak = {
-  role: "Student · AI engineer in the making",
-  location: "Pune, India 🇮🇳",
-
-  building: [
-    "Belfort: open-source stock research",
-    "Munim: GST agent used by businesses",
-    "AutoYield-AI: IEEE-accepted research",
-  ],
-
-  focus: ["Indian fintech", "Compliance", "ML systems"],
-
-  tech: {
-    ai:       ["PyTorch", "LangGraph", "scikit-learn"],
-    backend:  ["FastAPI", "Python", "Node.js"],
-    frontend: ["React", "TypeScript", "Tailwind"],
-  },
-};
-```
-
-## 🔥 Featured Work
+I'm a student in Pune who builds AI products end to end: the model, the backend, the interface, and the part where real people actually use it. My work sits where machine learning meets Indian finance and regulation.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 📈 [Belfort](https://github.com/sarthakviche/belfort) &nbsp; ![open source](https://img.shields.io/badge/open%20source-MIT-FFB47A?style=flat-square&labelColor=0d1117)
-**Learn, practise and research Indian stocks. Free and open source.**
-
-A desktop app with a trading course, paper trading, a chart-replay trainer, and one clear research report per NSE stock: checklist, risk, position size. Runs locally. No account, no tips.
-
-`Python` `Desktop` `NSE` `Research`
+**📈 Markets**<br>
+Research and practice tools for Indian equities, built to teach rather than tip.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🧾 [Munim](https://github.com/sarthakviche/m1m-business-workflow-agent) &nbsp; ![live](https://img.shields.io/badge/deployed-in%20use%20by%20businesses-39FF88?style=flat-square&labelColor=0d1117)
-**An AI business copilot and GST agent for Indian SMEs.**
-
-Businesses chat in English or Hinglish to get GST-compliant quotations, tax invoices, live inventory and branded PDFs. LLM extraction feeds deterministic tax math. **320 tests passing.**
-
-`LangGraph` `Gemini` `FastAPI` `React`
+**⚖️ Compliance**<br>
+GST workflows and SEBI circulars turned into structured, checkable output.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🔬 [AutoYield-AI](https://github.com/sarthakviche/AutoYeildAI) &nbsp; ![IEEE](https://img.shields.io/badge/IEEE-published%20%26%20accepted-00629B?style=flat-square&logo=ieee&logoColor=white)
-**An autonomous wafer-quality pipeline, accepted at IEEE.**
-
-EfficientNet-B0 defect classification, Grad-CAM heatmaps, drift monitoring that triggers synthetic data generation, and GenAI root-cause summaries behind a FastAPI backend and React dashboard.
-
-`PyTorch` `Computer Vision` `FastAPI` `React`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚖️ [SERA](https://github.com/sarthakviche/SERA-Securities-Engine-for-Regulatory-Action)
-**Turns SEBI circulars into machine-actionable compliance.**
-
-Scrapes new circulars, parses the PDFs into structured clauses, and surfaces obligations in a live dashboard for compliance teams.
-
-`FastAPI` `Playwright` `React` `Agents`
+**🔬 Applied ML**<br>
+Computer vision and explainable models, from training to dashboard.
 
 </td>
 </tr>
 </table>
+
+## 🔥 Featured Work
+
+<div align="center">
+
+<a href="https://github.com/sarthakviche/belfort"><img width="49%" src="assets/belfort.svg" alt="Belfort" /></a>
+<a href="https://github.com/sarthakviche/m1m-business-workflow-agent"><img width="49%" src="assets/munim.svg" alt="Munim" /></a>
+<a href="https://github.com/sarthakviche/AutoYeildAI"><img width="49%" src="assets/autoyield.svg" alt="AutoYield-AI" /></a>
+<a href="https://github.com/sarthakviche/SERA-Securities-Engine-for-Regulatory-Action"><img width="49%" src="assets/sera.svg" alt="SERA" /></a>
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -93,13 +66,4 @@ sarthak@pune:~$ cat now.txt
 > getting better at systems, not just models
 ```
 
-## 📬 Links
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=FFB47A)](https://www.linkedin.com/in/sarthakviche/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=carrd&logoColor=FFB47A)](https://sarthakviche.carrd.co/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=12,20,2&section=footer" width="100%" alt="" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,20,2&section=footer" width="100%" alt="" />
